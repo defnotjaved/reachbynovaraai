@@ -46,5 +46,5 @@ Three required checks on every merge to `main` (direct pushes are blocked): `lin
 |---|-------|--------|
 | [001](docs/adr/001-identity-and-tenancy.md) | Identity & tenancy | Accepted |
 | [002](docs/adr/002-money-model.md) | Money model (invoice-only) | Accepted |
-| 003 | Trip state machine | Pending |
+| [003](docs/adr/003-trip-state-machine.md) | Trip state machine | Accepted |
 | 004 | Location write economics | Pending |
